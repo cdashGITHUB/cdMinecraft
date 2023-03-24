@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=DotGothic16&family=VT323&display=swap');
+
+/*
+	font-family: 'Alfa Slab One', cursive;
+font-family: 'DotGothic16', sans-serif;
+font-family: 'VT323', monospace;
+*/
+
+* {
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	font-family: 'Alfa Slab One', cursive;	
+	font-weight: 100;
+	color: #94502B;
+	padding: 0 0 0 1%;
+}
+
+h2 {
+	
+}
+
+header img {
+	display: block;
+	width: 10%;
+	padding: 1% 0 0 1%;
+}
+
+header {
+	background-color: #38CF44;
+}
+
+table {
+	text-align: center;
+	padding: 0 1%;
+	font-family: 'VT323', monospace;
+}
+
+table td {
+	padding: 0 1%;
+}
+
+.btn {
+	font-size: .6em;
+}
+
+blockquote {
+	text-align: center;
+	font-size: 3em;
+	padding: 1% 0;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+p {
+	font-size: 1.2em;
+	padding: 10px 1%;
+	font-family: 'VT323', monospace;
+}
+
+main {
+	min-height: 500px;
+	background-color: #662D8E;
+}
+
+footer {
+	min-height: 211px;
+	text-align: center;
+	background-color: #94502B;
+	font-family: 'VT323', monospace;
+}
+
+.top-nav {
+	padding: 0 1%;
+	font-size: 1.2em;
+	background-color: #29A44C;
+	font-family: 'DotGothic16', sans-serif;
+}
+
+.top-nav li {
+	display:inline-block;
+	padding: 10px 5px;
+	list-style-type: none;
+}
+
+.top-nav a {
+	text-decoration: none;
+	color: #AD5222;
+	padding: 0 1%;
+}
+
+.top-nav a:hover {
+	color: #29A44C;
+	background-color: #AD5222;
+}
+
+.top-nav ul {
+	
+}
+
+.foot-nav {
+	font-size: 1.2em;
+	background-color: #AD5222;
+	font-family: 'DotGothic16', sans-serif;
+	color: #29A44C;
+}
+
+.foot-nav li {
+	display:inline-block;
+	padding: 10px 5px;
+	list-style-type: none;
+}
+
+.foot-nav a {
+	text-decoration: none;
+	padding: 0 1%;
+	color: #29A44C;
+}
+
+.foot-nav a:hover {
+	color: #AD5222; 
+	background-color: #29A44C;
+}
+
+.foot-nav ul {
+	
+}
